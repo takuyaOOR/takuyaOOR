@@ -1,7 +1,7 @@
 ### Hi there, I'm Takuya 👋
 
-<p>welcome to my page.</p>
-<p>I'm Takuya, Japanese college student aiming to become a web application engineer and mobile app engineer.</p>
+<p>Welcome to my page.</p>
+<p>I'm Takuya, Japanese college student aiming to become a web application engineer and mobile application engineer.</p>
 
 - 🌱 I’m currently learning ... React/Next.js
 - ⚡ Fun fact: Cycling🚲, Game🎮
