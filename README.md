@@ -32,6 +32,8 @@
   <img alt="CSS3" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" />
   <img alt="Tailwind CSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" />
   <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
+  <img alt="Anaconda" src="https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=" />
   <img alt="Swift" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=" />
   <img alt="iOS" src="https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=" />
+  <img alt="Firebase" src="https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=" />
 </p>
