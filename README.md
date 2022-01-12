@@ -13,7 +13,7 @@
 
 <p align="left"> 
   <a href="https://github.com/takuyaOOR/takuyaOOR/">
-    <img src="https://komarev.com/ghpvc/?username=taka1109y" alt="taka1109y" />
+    <img src="https://komarev.com/ghpvc/?username=takuyaOOR" alt="takuyaOOR" />
   </a>
   <a href="http://twitter.com/yt_space_1168">
     <img height="20" src="https://img.shields.io/twitter/follow/yt_space_1168?label=Twitter&logo=twitter&style=flat" />
