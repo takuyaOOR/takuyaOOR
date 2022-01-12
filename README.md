@@ -36,5 +36,4 @@
   <img alt="Swift" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=" />
   <img alt="iOS" src="https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=" />
   <img alt="Firebase" src="https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=" />
-  ![Realm](https://img.shields.io/static/v1?style=for-the-badge&message=Realm&color=39477F&logo=Realm&logoColor=FFFFFF&label=)
 </p>
