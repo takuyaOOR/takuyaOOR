@@ -3,7 +3,7 @@
 <p>Welcome to my page.</p>
 <p>I'm Takuya, mobile apps engineer in Japan.</p>
 
-- 🌱 I’m currently learning ... Android/Jetpac Compose
+- 🌱 I’m currently learning ... Android/Jetpack Compose
 - ⚡ Fun fact: Cycling🚲, Game🎮
 
 <p align="left"> 
